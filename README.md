@@ -1,5 +1,11 @@
 # JS Calculator 
 
+### Demo
+
+https://hendrikcromboom.github.io/js-calculator/
+
+---
+
 ### Goal
 
 Recreate and understand a vanilla js calculator.
